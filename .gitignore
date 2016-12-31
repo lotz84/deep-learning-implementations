@@ -20,3 +20,6 @@ env/
 *.iws
 
 .envrc
+
+## Datasets
+datasets/
