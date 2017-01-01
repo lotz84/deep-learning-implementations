@@ -24,6 +24,7 @@ numpy==1.11.3
 pandocfilters==1.4.1
 pexpect==4.2.1
 pickleshare==0.7.4
+Pillow==3.4.2
 prompt-toolkit==1.0.9
 protobuf==3.1.0.post1
 ptyprocess==0.5.1
@@ -33,8 +34,12 @@ python-dateutil==2.6.0
 pytz==2016.10
 pyzmq==16.0.2
 qtconsole==4.2.1
+requests==2.12.4
+scikit-learn==0.18.1
+scipy==0.18.1
 simplegeneric==0.8.1
 six==1.10.0
+sklearn==0.0
 tensorflow==0.12.1
 terminado==0.6
 testpath==0.3
